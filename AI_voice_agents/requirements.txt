@@ -1,7 +1,9 @@
 requests
 Python
 Python312
-fastembed
+fastembed>=0.1.0
+firecrawl>=0.1.0
+qdrant-client
 streamlit
 SpeechRecognition
 replicate
