@@ -1,0 +1,7 @@
+requests
+streamlit
+speech_recognition
+replicate
+gtts
+uuid
+mem0ai==0.1.29
