@@ -1,6 +1,7 @@
 requests
 Python
 Python312
+fastembed
 streamlit
 SpeechRecognition
 replicate
