@@ -1,4 +1,6 @@
 requests
+Python
+Python312
 streamlit
 SpeechRecognition
 replicate
