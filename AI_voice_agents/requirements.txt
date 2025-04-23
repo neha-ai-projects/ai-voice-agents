@@ -1,6 +1,6 @@
 requests
 streamlit
-speech_recognition
+SpeechRecognition
 replicate
 gtts
 uuid
